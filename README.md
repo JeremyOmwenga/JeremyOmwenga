@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with UI/UX design
 - 💬 Ask me about Python, HTML, CSS
 - 📫 How to reach me: jeremylecoder@gmail.com
-- ⚡ Fun fact: 69
+- ⚡ Fun fact: I'm just livin'
